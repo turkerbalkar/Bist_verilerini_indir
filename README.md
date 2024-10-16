@@ -2,7 +2,7 @@
 python isyatirimhisse ile temel analiz verilerini indirme: <br>
 Python'ı sisteminize yükleyin: https://www.python.org/downloads/ <br>
 Terminali açın ve paketi yüklemek için aşağıdaki komutu çalıştırın:
-pip install isyatirimhisse
+pip install isyatirimhisse <br>
 daha fazla bilgi için 
 https://pypi.org/project/isyatirimhisse/
 # Hisse_verilerini_indir.py
