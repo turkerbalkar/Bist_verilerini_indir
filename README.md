@@ -1,18 +1,15 @@
 # temel analiz isyatirim.py
-python isyatirimhisse ile temel analiz verilerini indirme: <br>
-Python'ı sisteminize yükleyin: https://www.python.org/downloads/ <br>
-Terminali açın ve paketi yüklemek için aşağıdaki komutu çalıştırın:
+python isyatirimhisse ile temel analiz verilerini indirmek için öncelikle Python'ı sisteminize yükleyin: https://www.python.org/downloads/ <br>
+Terminali açın ve paketi yüklemek için komutu çalıştırın:
 pip install isyatirimhisse <br>
-daha fazla bilgi için 
-https://pypi.org/project/isyatirimhisse/
+daha fazla bilgi için: https://pypi.org/project/isyatirimhisse/
 # Hisse_verilerini_indir.py
-Terminali açın ve paketi yüklemek için aşağıdaki komutu çalıştırın:
+Terminali açın ve paketi yüklemek için aşağıdaki komutu çalıştırın:<br>
 pip install yfinance
-python ile Bist hisselerinin verilerini indirme 
+python ile Bist hisselerinin verilerini indirme
 çalıştırılan dizinde /XU100/ dizinine tüm hisseleri kaydeder.
-olmayan hisseleri eklemek için ilgili yere "OYAKC.IS"  formatında eklenmelidir
-daha fazla bilgi için 
-https://pypi.org/project/yfinance/
+olmayan hisseleri eklemek için ilgili yere "OYAKC.IS"  formatında eklenmelidir.
+daha fazla bilgi için https://pypi.org/project/yfinance/ <br>
 # yahoo_temel_analiz.py
 Terminali açın ve paketi yüklemek için aşağıdaki komutu çalıştırın:
 pip install yfinance
